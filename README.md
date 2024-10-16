@@ -1,3 +1,3 @@
-# 30-days-Java
+# 30-days-C
 
-learning Java for 30 days
+learning C for 30 days
